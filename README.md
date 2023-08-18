@@ -7,7 +7,7 @@ GOARCH=amd64 GOOS=windows GO111MODULE=on CGO_ENABLED=0 go build -o ./processlist
 ## Help:
 ```
 .\processlist-SA-5.0.2.exe -h
-Usage of C:\Users\Administrator\Downloads\processlist-otelpkgs-0.79.1.exe:
+Usage of C:\Users\Administrator\Downloads\processlist-SA-5.0.2.exe:
   -log string
         debug : Display additional output (default "info")
   -version
